@@ -1,0 +1,5 @@
+[
+  {"_Subscription__sid": "a", "_Subscription__email": "a@ab.com", "_Subscription__component": "compa"},
+  {"_Subscription__sid": "b", "_Subscription__email": "b@ab.com", "_Subscription__component": "compa"},
+  {"_Subscription__sid": "c", "_Subscription__email": "b@ab.com", "_Subscription__component": "compa"}
+]
